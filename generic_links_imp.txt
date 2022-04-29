@@ -1,0 +1,181 @@
+##UCLA##
+http://www.proteindesign.org/
+##MIT DL###
+https://www.youtube.com/playlist?list=PLypiXJdtIca5sxV7aE3-PS9fYX3vUdIOX
+https://www.youtube.com/watch?v=PrLwIay2qH4&list=PLypiXJdtIca5ElZMWHl4HMeyle2AzUgVB
+##ROB PHIL##
+https://www.youtube.com/watch?v=adGVgAZf-bs&list=PLVA3Onuu1UMAzuqbD5PiCZ3tKUDtxqTab
+##GEEKSFORGEEKS###
+https://www.geeksforgeeks.org/machine-learning/?ref=shm
+https://www.geeksforgeeks.org/ensemble-classifier-data-mining/
+https://www.geeksforgeeks.org/how-to-randomly-select-rows-from-pandas-dataframe/
+https://stackoverflow.com/questions/29576430/shuffle-dataframe-rows
+https://cmdlinetips.com/2020/05/drop-multiple-columns-in-pandas-dataframe/
+https://www.geeksforgeeks.org/numpy-string-operations-split-function/
+https://stackoverflow.com/questions/38441098/iterate-over-a-subset-of-dictionary-keys
+https://www.geeksforgeeks.org/sliding-window-attention/
+##AYAN DAS DL##
+https://ayandas.me/blogs.html
+##PCA##
+https://builtin.com/data-science/step-step-explanation-principal-component-analysis
+https://stackabuse.com/implementing-pca-in-python-with-scikit-learn/
+https://towardsdatascience.com/the-mathematics-behind-principal-component-analysis-fff2d7f4b643
+##topics to study##
+variational auto encoder
+bicycle GAN
+what is generative model
+VAE loss
+neural network for classification python
+embedding deep learning
+protein sequence sliding window and deep learning
+binary cross entropy
+##DL course##
+https://slazebni.cs.illinois.edu/spring17/
+https://dmol.pub/intro.html
+
+##ALPHA FOLD##
+https://towardsdatascience.com/unfolding-alphafold-683d576a54a3
+
+
+##Neural Net VVI##
+https://scikit-learn.org/stable/modules/neural_networks_supervised.html
+https://medium.com/luca-chuangs-bapm-notes/build-a-neural-network-in-python-binary-classification-49596d7dcabf
+https://www.youtube.com/c/3blue1brown/search
+https://medium.com/@rwalroth89/neural-nets-for-protein-classification-1b122cde5b6f
+https://alec-mather.medium.com/neural-networks-from-scratch-nnfs-chapter-9-backpropagation-2de69fdb20da
+https://towardsdatascience.com/math-neural-network-from-scratch-in-python-d6da9f29ce65
+
+https://towardsdatascience.com/deep-learning-with-python-neural-networks-complete-tutorial-6b53c0b06af0
+https://betterprogramming.pub/how-to-create-a-simple-neural-network-in-python-dbf17f729fe6
+
+##PPI_data##
+https://github.com/drorlab/DIPS
+https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/H93ZKK
+
+
+##transformer_image##
+https://openreview.net/forum?id=YicbFdNTTy
+
+##ALPHA CODE##
+https://www.youtube.com/watch?v=t3Yh56efKGI
+
+##ML YOUTUBE COURSE REPO##
+https://github.com/dair-ai/ML-YouTube-Courses
+
+##SREE GITHUB###
+https://github.com/sreetamadas/web_links/blob/master/1_imbalanced-datasets_Finetune-a-classifier.txt
+
+##NEURAL NET EYNN###
+https://github.com/synthaze/epynn
+
+##DL BOOK##
+https://d2l.ai/
+https://dmol.pub/intro.html
+https://slazebni.cs.illinois.edu/spring17/
+https://pad.gwdg.de/s/2021_AdvancedMachineLearningForScience#
+https://introduction-to-machine-learning.netlify.app/
+
+##TRANSFORMER RECIPE##
+https://github.com/dair-ai/Transformers-Recipe/blob/main/README.md
+from elvis
+##DYNAMINE##
+https://bio2byte.be/dynamine//dynamine-in-a-nutshell/
+
+##protein feature extraction##
+https://protlearn.readthedocs.io/en/latest/introduction.html#package-contents
+
+
+##PPI methods##hotspot
+google search protein protein interaction hotspots software github
+https://github.com/CSUBioGroup/DeepPPISP
+https://github.com/topics/protein-interaction
+https://github.com/MoreiraLAB/spotone
+https://github.com/CSUBioGroup/DeepPPISP
+https://portlandpress.com/biochemsoctrans/article-abstract/50/1/541/230748/Conformational-ensembles-of-intrinsically
+https://github.com/BiancaStoecker/cpinsim
+
+##dl_protein##
+https://www.embl.org/news/perspectives/deep-learning-models-help-predict-protein-function/
+https://towardsdatascience.com/protein-sequence-classification-99c80d0ad2df
+https://github.com/Rostlab/bindPredict
+https://github.com/alex-hh/deep-protein-generation
+http://2017.igem.org/Team:Heidelberg/Software/DeeProtein
+https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/H93ZKK
+
+
+Conformational ensembles of intrinsically disordered proteins and flexible multidomain proteins
+important paper with data on hotspot: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6311905/
+https://www.google.com/search?channel=fs&client=ubuntu&q=protein+protein+hotspot+github
+
+##imp##
+https://colab.research.google.com/github/casperg92/MaSIF_colab/blob/main/dMaSIF_Colab_V1.ipynb
+
+##prot voxel##
+https://github.uconn.edu/mldrugdiscovery/OctSurf
+http://www.pdbbind.org.cn/download.php
+
+##GOOGLE RESEARCH##
+https://research.google/people/106569/
+Lucy Colwell
+
+##Protein Sequence as image##
+https://www.sciencedirect.com/science/article/abs/pii/S147692712100061X?via%3Dihub
+protconv
+Convolutional neural networks with image representation of amino acid sequences for protein function prediction
+https://dergipark.org.tr/en/pub/bitlisfen/issue/58597/662816
+
+##stat##
+t test
+
+##Golgi image##
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5706995/
+https://data.mendeley.com/datasets/vk4yhs8h6s/1
+https://data.mendeley.com/datasets/vk4yhs8h6s/1
+
+##Digital Sreeni course##
+https://www.youtube.com/watch?v=X_pCiVQ4c4E&list=PLZsOBAyNTZwbIjGnolFydAN33gyyGP7lT
+
+##what is the next word##
+https://www.analyticsvidhya.com/blog/2021/08/predict-the-next-word-of-your-text-using-long-short-term-memory-lstm/
+https://towardsdatascience.com/next-word-prediction-with-nlp-and-deep-learning-48b9fe0a17bf
+https://thecleverprogrammer.com/2021/01/19/next-word-prediction-with-python/
+https://www.kaggle.com/code/namansood/nlp-guide-next-word-prediction-and-deep-learning/notebook
+google search predict the next word nlp python
+
+https://www.youtube.com/results?search_query=predict+the+next+word+nlp+python
+
+##Information and ml##
+https://medium.com/swlh/shannon-entropy-in-the-context-of-machine-learning-and-ai-24aee2709e32
+https://exonpublications.com/index.php/exon/article/view/225/423#toc
+https://www.youtube.com/channel/UCrltzuSvRbL3rpsvLDnFkuQ/playlists
+https://towardsdatascience.com/must-know-information-theory-concepts-in-deep-learning-ai-e54a5da9769d
+https://towardsdatascience.com/information-theory-of-neural-networks-ad4053f8e177
+
+
+##flow cyto ml##
+https://www.youtube.com/watch?v=ZOZF0lYdmps
+https://flowrepository.org/public_experiment_representations 
+https://www.flowjo.com/learn/flowjo-university/flowjo/before-flowjo/58
+
+##codebasics#
+https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ
+
+##MD##
+https://github.com/TheBiomics/Molecular-Dynamics
+https://nostrumbiodiscovery.github.io/pele_platform/pele/index.html
+
+##coevolution##
+https://kornmann.bioch.ox.ac.uk/leri/index.html
+
+##ancestral sequence##
+https://loschmidt.chemi.muni.cz/fireprotasr/
+
+##network##
+https://trenton3983.github.io/files/projects/2020-05-21_intro_to_network_analysis_in_python/2020-05-21_intro_to_network_analysis_in_python.html
+https://trenton3983.github.io/files/projects/2020-05-21_intro_to_network_analysis_in_python/2020-05-21_intro_to_network_analysis_in_python.html
+
+##stochastic_simulation##
+https://machinelearningrecipes.com/blog/post/1687564/stochastic-processes-and-simulations
+
+##nyt##
+https://www.newyorker.com/magazine/2022/03/07/a-journey-to-the-center-of-our-cells?fbclid=IwAR3r70Fx0tyblk_M-QkcSmnEv47Ijc4cx6S21L-NWngHuRYeuKajMTcKNpU

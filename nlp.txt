@@ -1,0 +1,6 @@
+##nlp##
+https://towardsdatascience.com/next-word-prediction-with-nlp-and-deep-learning-48b9fe0a17bf
+https://www.analyticsvidhya.com/blog/2021/08/predict-the-next-word-of-your-text-using-long-short-term-memory-lstm/
+https://machinelearningmastery.com/what-are-word-embeddings/
+https://towardsdatascience.com/sequence-embedding-for-clustering-and-classification-f816a66373fb
+https://github.com/nadavbra/protein_bert

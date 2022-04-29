@@ -1,0 +1,217 @@
+What are Word Embeddings?
+
+It is an approach for representing words and documents. Word Embedding or Word Vector is a numeric vector input that represents a word in a lower-dimensional space. It allows words with similar meaning to have a similar representation. They can also approximate meaning. A word vector with 50 values can represent 50 unique features.
+
+Goal of Word Embeddings
+
+    To reduce dimensionality
+    To use a word to predict the words around it
+    Inter word semantics must be captured
+    
+    
+How are Word Embeddings used?
+
+    They are used as input to machine learning models.
+    Take the words —-> Give their numeric representation —-> Use in training or inference
+    To represent or visualize any underlying patterns of usage in the corpus that was used to train them.
+    
+    
+    
+A common way to represent data objects for data analytics is to use feature vectors. Data in raw forms such as those discussed above are not descried by informative features. Even data represented by feature vectors may still be in need of new effective features.
+
+Feature Embeddings Explained
+
+Neural networks have difficulty with sparse categorical features. Embeddings are a way to reduce those features to increase model performance. Before discussing structured datasets, its helpful to understand how embeddings are typically used. In natural language processing settings, you are typically dealing with dictionaries of thousands of words. These dictionaries are one-hot encoded into the model, which mathematically is the same as having a separate column for every possible word. When a word is fed into the model, the corresponding column will show a one while all other columns will show zeros. This leads into an incredibly sparse dataset. The solution is to create an embedding.
+
+An embedding will essentially group words with similar meanings based on the training text and return their location. So, for example, ‘fun’ might have a similar embedding value as words like ‘humor’, ‘dancing’, or ‘machine learning’. In practice, neural networks perform far better on these representative features.
+
+https://towardsdatascience.com/why-you-should-always-use-feature-embeddings-with-structured-datasets-7f280b40e716
+https://towardsdatascience.com/automated-feature-engineering-using-neural-networks-5310d6d4280a
+
+https://towardsdatascience.com/automated-feature-engineering-using-neural-networks-5310d6d4280a
+##can be implemented
+
+##interpretable ml
+https://www.analyticsvidhya.com/blog/2019/08/decoding-black-box-step-by-step-guide-interpretable-machine-learning-models-python/
+https://towardsdatascience.com/interpretable-machine-learning-1dec0f2f3e6b
+https://christophm.github.io/interpretable-ml-book/
+https://towardsdatascience.com/three-interpretability-methods-to-consider-when-developing-your-machine-learning-model-5bf368b47fac
+
+##tokenization##
+https://www.analyticsvidhya.com/blog/2020/05/what-is-tokenization-nlp/
+
+##word embedding##
+https://www.geeksforgeeks.org/word-embeddings-in-nlp/
+
+##transformer##
+https://www.analyticsvidhya.com/blog/2019/06/understanding-transformers-nlp-state-of-the-art-models/?utm_source=blog&utm_medium=what-is-tokenization-nlp
+https://daleonai.com/transformers-explained
+
+###LSTM##
+https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+https://towardsdatascience.com/understanding-the-outputs-of-multi-layer-bi-directional-lstms-13ad99a80dd3
+https://www.youtube.com/results?search_query=lstm+classification+of+newsfeed+and+measuring+performance+with+a+confusion+matrix
+
+
+bi directional lstm
+##SVM##
+https://towardsdatascience.com/hyperparameter-tuning-for-support-vector-machines-c-and-gamma-parameters-6a5097416167
+https://www.hackerearth.com/blog/developers/simple-tutorial-svm-parameter-tuning-python-r/
+https://www.datacamp.com/community/tutorials/svm-classification-scikit-learn-python
+
+##weight and data imbalance##
+https://www.analyticsvidhya.com/blog/2020/10/improve-class-imbalance-class-weights/
+
+##confusion matrix##
+https://towardsdatascience.com/understanding-confusion-matrix-a9ad42dcfd62
+https://stackoverflow.com/questions/35572000/how-can-i-plot-a-confusion-matrix
+
+##KL divergence##
+https://machinelearningmastery.com/divergence-between-probability-distributions/
+##BAYESIAN##
+https://machinelearningmastery.com/what-is-bayesian-optimization/
+https://machinelearningmastery.com/what-is-bayesian-optimization/
+https://www.analyticsvidhya.com/blog/2021/05/bayesian-optimization-bayes_opt-or-hyperopt/#h2_1
+
+
+##ML exercise## 
+https://introduction-to-machine-learning.netlify.app/
+https://medium.com/coders-camp/all-machine-learning-algorithms-models-explained-adcd95d5fb3c
+https://towardsdatascience.com/how-to-build-a-machine-learning-model-439ab8fb3fb1
+https://github.com/anishiisc/ML_MATH
+https://github.com/dair-ai/ML-Course-Notes
+
+##bias varience tradeoff##
+https://www.geeksforgeeks.org/ml-bias-variance-trade-off/
+
+##CV and training curve##
+https://scikit-learn.org/stable/auto_examples/model_selection/plot_validation_curve.html
+https://scikit-learn.org/stable/auto_examples/model_selection/plot_validation_curve.html
+
+##DL DATA size##
+https://towardsdatascience.com/review-of-recent-advances-in-dealing-with-data-size-challenges-in-deep-learning-ac5c1844af73
+
+##cross validation on big data##
+https://github.com/dask/dask-ml/issues/303
+
+##SCIKIT LEARN MODEL SELECTION###
+https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
+
+##scaling##
+https://machinelearningmastery.com/standardscaler-and-minmaxscaler-transforms-in-python/
+https://machinelearningmastery.com/standardscaler-and-minmaxscaler-transforms-in-python/
+
+##feature selection##
+https://machinelearningmastery.com/rfe-feature-selection-in-python/
+
+##feature_engg##
+https://medium.com/inside-machine-learning/feature-engineering-for-deep-learning-2b1fc7605ace
+
+##autoencoder##
+https://towardsdatascience.com/applied-deep-learning-part-3-autoencoders-1c083af4d798
+
+##precision_recall##
+https://scikit-learn.org/stable/auto_examples/model_selection/plot_precision_recall.html#sphx-glr-auto-examples-model-selection-plot-precision-recall-py
+https://developers.google.com/machine-learning/crash-course/classification/precision-and-recall
+https://developers.google.com/machine-learning/crash-course/classification/accuracy
+https://www.youtube.com/watch?v=2osIZ-dSPGE
+
+
+##heat maps##
+https://towardsdatascience.com/better-heatmaps-and-correlation-matrix-plots-in-python-41445d0f2bec
+
+##train test selection##
+https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
+
+##keras embedding##
+https://keras.io/api/layers/core_layers/embedding/
+
+##Monte Carlo##
+https://www.analyticsvidhya.com/blog/2021/04/how-to-perform-monte-carlo-simulation/
+
+monte carlo simulation to generate data
+
+##FAST AI##
+https://docs.fast.ai/
+
+##comparison ML techniques##
+https://medium.com/@dannymvarghese/comparative-study-on-classic-machine-learning-algorithms-24f9ff6ab222
+https://medium.com/@dannymvarghese/comparative-study-on-classic-machine-learning-algorithms-part-2-5ab58b683ec0
+
+##scaling_imp##
+https://machinelearningmastery.com/how-to-save-and-load-models-and-data-preparation-in-scikit-learn-for-later-use/
+https://towardsdatascience.com/data-preprocessing-with-scikit-learn-standardization-and-scaling-cfb695280412
+
+##RF##predict_proba##
+https://towardsdatascience.com/decision-trees-and-random-forests-df0c3123f991
+https://www.analyticsvidhya.com/blog/2015/06/tuning-random-forest-model/
+https://bradleyboehmke.github.io/HOML/random-forest.html
+https://scikit-learn.org/stable/auto_examples/ensemble/plot_ensemble_oob.html
+https://scikit-learn.org/0.17/modules/generated/sklearn.ensemble.RandomForestClassifier.html#sklearn.ensemble.RandomForestClassifier.predict_proba
+https://towardsdatascience.com/pythons-predict-proba-doesn-t-actually-predict-probabilities-and-how-to-fix-it-f582c21d63fc
+https://www.kaggle.com/code/prashant111/random-forest-classifier-tutorial/notebook
+https://towardsdatascience.com/random-forests-algorithm-explained-with-a-real-life-example-and-some-python-code-affbfa5a942c
+https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+
+
+##VAE##
+https://machinelearninginterview.com/topics/machine-learning/what-is-an-autoencoder/
+
+##dataframe##
+https://realpython.com/np-linspace-numpy/
+https://stackoverflow.com/questions/46829855/how-to-make-column-numbers-of-pandas-dataframe-to-start-from-1-instead-of-0
+
+##hyperparameter##
+https://www.kdnuggets.com/2020/04/hyperparameter-tuning-python.html
+https://www.kdnuggets.com/2020/02/practical-hyperparameter-optimization.html
+https://neptune.ai/blog/hyperparameter-tuning-in-python-complete-guide
+https://www.analyticsvidhya.com/blog/2021/05/tuning-the-hyperparameters-and-layers-of-neural-network-deep-learning/#h2_3
+https://www.jeremyjordan.me/nn-learning-rate/
+https://towardsdatascience.com/estimating-optimal-learning-rate-for-a-deep-neural-network-ce32f2556ce0
+https://towardsdatascience.com/the-art-of-hyperparameter-tuning-in-deep-neural-nets-by-example-685cb5429a38
+https://towardsdatascience.com/simple-guide-to-hyperparameter-tuning-in-neural-networks-3fe03dad8594
+
+
+##pickle##
+https://machinelearningmastery.com/how-to-save-and-load-models-and-data-preparation-in-scikit-learn-for-later-use/
+https://www.kaggle.com/code/prmohanty/python-how-to-save-and-load-ml-models/notebook
+https://www.analyticsvidhya.com/blog/2021/08/quick-hacks-to-save-machine-learning-model-using-pickle-and-joblib/
+
+##dl and mathematics##
+https://deeplearningmath.org/
+https://towardsdatascience.com/epoch-vs-iterations-vs-batch-size-4dfb9c7ce9c9
+
+
+##ML codes##
+https://github.com/dair-ai/ML-Notebooks
+
+##class imbalance##
+https://www.analyticsvidhya.com/blog/2020/10/improve-class-imbalance-class-weights/
+
+##binary cross entropy##loss function##
+https://towardsdatascience.com/understanding-binary-cross-entropy-log-loss-a-visual-explanation-a3ac6025181a
+https://machinelearningmastery.com/loss-and-loss-functions-for-training-deep-learning-neural-networks/
+
+##transfer learning##
+https://machinelearningmastery.com/transfer-learning-for-deep-learning/
+
+##tape embedding##
+https://github.com/songlab-cal/tape
+
+
+##IKDD##
+https://ikdd.acm.org/organization.php
+
+##hypothesis testing##
+https://www.kaggle.com/code/hamelg/python-for-data-24-hypothesis-testing/notebook
+
+##scikitlearn_ANN##
+https://scikit-neuralnetwork.readthedocs.io/en/latest/guide_sklearn.html
+https://www.kaggle.com/code/ahmethamzaemra/mlpclassifier-example/notebook
+https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html#sklearn.neural_network.MLPClassifier
+https://scikit-learn.org/stable/modules/neural_networks_supervised.html
+https://medium.com/luca-chuangs-bapm-notes/build-a-neural-network-in-python-binary-classification-49596d7dcabf
+https://scikit-learn.org/stable/modules/neural_networks_supervised.html
+##EPYNN##
+https://epynn.net/quickstart.html
