@@ -215,3 +215,62 @@ https://medium.com/luca-chuangs-bapm-notes/build-a-neural-network-in-python-bina
 https://scikit-learn.org/stable/modules/neural_networks_supervised.html
 ##EPYNN##
 https://epynn.net/quickstart.html
+
+##ML related##
+AWS Machine Learning Blog
+https://aws.amazon.com/blogs/machine-learning/
+
+Introduction to ML - Machine Learning Live Class | iNeuron.ai
+https://learn.ineuron.ai/lesson/Introduction-to-ML/621efe837b21817df471e84c/course/Machine-Learning-Live-Class/6200df616a34bdfe4bec7a71
+
+Interview Preparation Tool - Premium - Machine Learning Interviews
+https://machinelearninginterview.com/interview-preparation-package/
+
+Interview Preparation Tool - Premium - Machine Learning Interviews
+https://machinelearninginterview.com/interview-preparation-package/
+
+Applied Roots
+https://www.appliedaicourse.com/course/11/Applied-Machine-learning-course
+
+Generation of a synthetic microbial dataset with deep learning style transfer | by Jarosław Pawłowski | May, 2022 | Towards Data Science
+https://towardsdatascience.com/generation-of-a-synthetic-microbial-dataset-with-deep-learning-style-transfer-d6b879aaaf2d
+
+(9) New Book: Approaching (Almost) Any Machine Learning Problem | LinkedIn
+https://www.linkedin.com/pulse/new-book-approaching-almost-any-machine-learning-vincent-granville/?trackingId=66%2B4ehXAESV5o%2BnNB%2FfPPA%3D%3D
+
+MLRW 2022 : AI Driven Biomedical Hackathon | Kaggle
+https://www.kaggle.com/c/mlrw-biomedicalhackathon
+
+Generation of a synthetic microbial dataset with deep learning style transfer | by Jarosław Pawłowski | May, 2022 | Towards Data Science
+https://towardsdatascience.com/generation-of-a-synthetic-microbial-dataset-with-deep-learning-style-transfer-d6b879aaaf2d
+
+Unbalanced Data? Stop Using ROC-AUC and Use AUPRC Instead | by Daniel Rosenberg | Jun, 2022 | Towards Data Science
+https://towardsdatascience.com/imbalanced-data-stop-using-roc-auc-and-use-auprc-instead-46af4910a494
+
+Math for Machine Learning: 14 Must-Read Books - Machine Learning Techniques
+https://mltechniques.com/2022/06/13/math-for-machine-learning-12-must-read-books/
+
+GitHub - junyuchen245/Transformer_for_medical_image_analysis: A collection of papers about Transformer in the field of medical image analysis.
+https://github.com/junyuchen245/Transformer_for_medical_image_analysis
+
+Machine learning/molecular dynamic protein structure prediction approach to investigate the protein conformational ensemble | Scientific Reports
+https://www.nature.com/articles/s41598-022-13714-z#Sec2
+
+SMOTE for Imbalanced Classification with Python
+https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification/
+
+Practical Machine Learning and Deep learning – The Data Exchange
+https://thedataexchange.media/practical-machine-learning-and-deep-learning/
+
+Naive Bayes Classifier From Scratch in Python
+https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/
+
+machines are learning - Open Source For You
+https://www.opensourceforu.com/?s=machines+are+learning
+
+Math for Machine Learning: 14 Must-Read Books - Machine Learning Techniques
+https://mltechniques.com/2022/06/13/math-for-machine-learning-12-must-read-books/
+
+A Novel Approach to Feature Importance — Shapley Additive Explanations | by Prakhar Rathi | Towards Data Science
+https://towardsdatascience.com/a-novel-approach-to-feature-importance-shapley-additive-explanations-d18af30fc21b
+
