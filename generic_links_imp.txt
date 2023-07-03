@@ -223,3 +223,90 @@ https://machinelearningrecipes.com/blog/post/1687564/stochastic-processes-and-si
 ##nyt##
 https://www.newyorker.com/magazine/2022/03/07/a-journey-to-the-center-of-our-cells?fbclid=IwAR3r70Fx0tyblk_M-QkcSmnEv47Ijc4cx6S21L-NWngHuRYeuKajMTcKNpU
 
+##protein Science##
+GitHub - PatWalters/practical_cheminformatics_tutorials: Practical Cheminformatics Tutorials
+https://github.com/PatWalters/practical_cheminformatics_tutorials
+
+GitHub - djmaity/md-davis: MD DaVis: A python package to analyze molecular dynamics trajectories of proteins
+https://github.com/djmaity/md-davis
+
+Machine learning/molecular dynamic protein structure prediction approach to investigate the protein conformational ensemble | Scientific Reports
+https://www.nature.com/articles/s41598-022-13714-z#Sec2
+
+Electrifying rhythms in plant cells - ScienceDirect
+https://www.sciencedirect.com/science/article/abs/pii/S0955067422000667
+
+Frontiers | Optimization Algorithms for Computational Systems Biology
+https://www.frontiersin.org/articles/10.3389/fams.2017.00006/full
+
+Controllable protein design with language models | Nature Machine Intelligence
+https://www.nature.com/articles/s42256-022-00499-z
+
+Artificial intelligence model finds potential drug molecules a thousand times faster | MIT News | Massachusetts Institute of Technology
+https://news.mit.edu/2022/ai-model-finds-potentially-life-saving-drug-molecules-thousand-times-faster-0712?utm_source=join1440&utm_medium=email&es_id=3b8a2166df
+
+On the Frustration to Predict Binding Affinities from Protein–Ligand Structures with Deep Neural Networks | Journal of Medicinal Chemistry
+https://pubs.acs.org/doi/10.1021/acs.jmedchem.2c00487#
+
+Frontiers | Cell-to-cell communication circuits: quantitative analysis of synthetic logic gates
+https://www.frontiersin.org/articles/10.3389/fphys.2012.00287/full
+
+CellChat
+http://www.cellchat.org/
+
+ProtGPT2 is a deep unsupervised language model for protein design | Nature Communications
+https://www.nature.com/articles/s41467-022-32007-7
+
+Are Deep Learning Structural Models Sufficiently Accurate for Free-Energy Calculations? Application of FEP+ to AlphaFold2-Predicted Structures | Journal of Chemical Information and Modeling
+https://pubs.acs.org/doi/10.1021/acs.jcim.2c00796#.YyH3eari5SM.linkedin
+
+(73) Post | LinkedIn
+https://www.linkedin.com/posts/cdatabrown_structure-based-virtual-screening-on-the-activity-6918596708385832960-gNAi/?utm_source=linkedin_share&utm_medium=member_desktop_web
+
+IJMS | Free Full-Text | Efficient Base-Catalyzed Kemp Elimination in an Engineered Ancestral Enzyme
+https://www.mdpi.com/1422-0067/23/16/8934
+
+Scope and vision of AlphaFold | EMBL-EBI Training
+https://www.ebi.ac.uk/training/events/scope-and-vision-alphafold/
+
+Scope and vision of AlphaFold
+https://embl-ebi.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=5caed0b7-452b-4413-9f62-aeaf0107d2a0
+
+Controllable protein design with language models | Nature Machine Intelligence
+https://www.nature.com/articles/s42256-022-00499-z.epdf?sharing_token=MDamb4k81UVbOz5ey46LwtRgN0jAjWel9jnR3ZoTv0NC-DfYD6Rkx-tbUTFbm_FW3rCeC8UzNC4yifO6kVqwK1OMjBVeEqwQ4luxjc7cyy0ZLCY7kQE3Hf1eFBkMt7VDoEfBf_SIrvHpYcaUCRd7snB_1EGK8Sbhe2HIu0194pM%3D
+
+Videos | Modeling Life
+https://modelinginbiology.github.io/Videos/
+
+Purulia, West Bengal to Purulia, West Bengal - Google Maps
+https://www.google.co.in/maps/dir/Purulia,+West+Bengal/Hatimara,+West+Bengal+723147/Chelyama,+West+Bengal/Telkupi+Jain+Temple,+Telkupi,+West+Bengal/Purulia,+West+Bengal/@23.5007485,87.2467581,21321m/data=!3m2!1e3!4b1!4m32!4m31!1m5!1m1!1s0x39f67d8536b0f1fd:0xdc1033bd1a93d07b!2m2!1d86.3616405!2d23.3322026!1m5!1m1!1s0x39f685cba3ff5f69:0x5d84f340c3be6855!2m2!1d86.3807527!2d23.4566472!1m5!1m1!1s0x39f6936e852e02fd:0x8efbc3524018eb22!2m2!1d86.5526896!2d23.6150855!1m5!1m1!1s0x39f6ebac553ec499:0x8c91af90a9e021ee!2m2!1d86.6001599!2d23.6580778!1m5!1m1!1s0x39f67d8536b0f1fd:0xdc1033bd1a93d07b!2m2!1d86.3616405!2d23.3322026!3e0
+
+Network-based machine learning and graph theory algorithms for precision oncology | npj Precision Oncology
+https://www.nature.com/articles/s41698-017-0029-7
+
+Maximum-likelihood model fitting for quantitative analysis of SMLM data | Nature Methods
+https://www.nature.com/articles/s41592-022-01676-z
+
+Crystals | Free Full-Text | Prediction of Lattice Volumes of Crystal Samples by Computer Image Recognition on the X-ray Diffraction Patterns
+https://www.mdpi.com/2073-4352/12/11/1676
+
+protein crystallization and deep learning - Google Search
+https://www.google.co.in/search?sxsrf=AJOqlzU_RerTUIR_ZCGBUCGug9cYGh_jlw:1673266860977&q=protein+crystallization+and+deep+learning&tbm=isch&sa=X&ved=2ahUKEwjIpPPmvLr8AhVOU2wGHTDwAHEQ0pQJegQIChAB&biw=1233&bih=609&dpr=1.5#imgrc=QqvDWIUH57LiRM
+
+Automating crystal-structure phase mapping by combining deep learning with constraint reasoning | Nature Machine Intelligence
+https://www.nature.com/articles/s42256-021-00384-1
+
+MolDiscovery: learning mass spectrometry fragmentation of small molecules | Nature Communications
+https://www.nature.com/articles/s41467-021-23986-0
+
+Automating LC–MS/MS mass chromatogram quantification: Wavelet transform based peak detection and automated estimation of peak boundaries and signal-to-noise ratio using signal processing methods. - ScienceDirect
+https://www.sciencedirect.com/science/article/abs/pii/S1746809421008089
+
+PeakBot: machine-learning-based chromatographic peak picking | Bioinformatics | Oxford Academic
+https://academic.oup.com/bioinformatics/article/38/13/3422/6590644?login=false
+
+CavBench: A benchmark for protein cavity detection methods - PubMed
+https://pubmed.ncbi.nlm.nih.gov/31609980/
+
+
+
