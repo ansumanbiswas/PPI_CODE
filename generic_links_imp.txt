@@ -169,6 +169,49 @@ https://kornmann.bioch.ox.ac.uk/leri/index.html
 
 ##ancestral sequence##
 https://loschmidt.chemi.muni.cz/fireprotasr/
+Ancestral sequence reconstruction produces thermally stable enzymes with mesophilic enzyme-like catalytic properties | Scientific Reports
+https://www.nature.com/articles/s41598-020-72418-4#Sec10
+
+Ancestral sequence reconstruction for protein engineers - ScienceDirect
+https://www.sciencedirect.com/science/article/abs/pii/S0959440X21000555
+
+Ancestral sequence reconstruction for evolutionary characterization of proteins: Trends in Biochemical Sciences
+https://www.cell.com/trends/biochemical-sciences/fulltext/S0968-0004(21)00235-8
+
+Uncovering cryptic pockets in the SARS-CoV-2 spike glycoprotein: Structure
+https://www.cell.com/structure/fulltext/S0969-2126(22)00180-0
+
+Capturing the geometry, function, and evolution of enzymes with 3D templates - Riziotis - 2022 - Protein Science - Wiley Online Library
+https://onlinelibrary.wiley.com/doi/10.1002/pro.4363
+
+Exploiting enzyme evolution for computational protein design: Trends in Biochemical Sciences
+https://www.cell.com/trends/biochemical-sciences/fulltext/S0968-0004(21)00188-2
+
+Reconstructed ancestral enzymes reveal that negative selection drove the evolution of substrate specificity in ADP-dependent kinases
+https://www.jbc.org/action/showPdf?pii=S0021-9258%2820%2934030-8
+
+GitHub - aqlaboratory/openfold: Trainable, memory-efficient, and GPU-friendly PyTorch reproduction of AlphaFold 2
+https://github.com/aqlaboratory/openfold
+
+Controllable protein design with language models | Nature Machine Intelligence
+https://www.nature.com/articles/s42256-022-00499-z
+
+GRASP Ancestral Sequence Reconstruction
+http://grasp.scmb.uq.edu.au/
+
+Using the Evolutionary History of Proteins to Engineer Insertion-Deletion Mutants from Robust, Ancestral Templates Using Graphical Representation of Ancestral Sequence Predictions (GRASP) - PubMed
+https://pubmed.ncbi.nlm.nih.gov/34813061/
+
+Ancestral sequence reconstruction for protein engineers - PubMed
+https://pubmed.ncbi.nlm.nih.gov/34023793/
+
+On the Frustration to Predict Binding Affinities from Protein–Ligand Structures with Deep Neural Networks | Journal of Medicinal Chemistry
+https://pubs.acs.org/doi/10.1021/acs.jmedchem.2c00487#
+
+ProtGPT2 is a deep unsupervised language model for protein design | Nature Communications
+https://www.nature.com/articles/s41467-022-32007-7
+
+
 
 ##network##
 https://trenton3983.github.io/files/projects/2020-05-21_intro_to_network_analysis_in_python/2020-05-21_intro_to_network_analysis_in_python.html
@@ -179,3 +222,4 @@ https://machinelearningrecipes.com/blog/post/1687564/stochastic-processes-and-si
 
 ##nyt##
 https://www.newyorker.com/magazine/2022/03/07/a-journey-to-the-center-of-our-cells?fbclid=IwAR3r70Fx0tyblk_M-QkcSmnEv47Ijc4cx6S21L-NWngHuRYeuKajMTcKNpU
+
