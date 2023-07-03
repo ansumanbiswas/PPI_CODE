@@ -4,3 +4,56 @@ https://www.analyticsvidhya.com/blog/2021/08/predict-the-next-word-of-your-text-
 https://machinelearningmastery.com/what-are-word-embeddings/
 https://towardsdatascience.com/sequence-embedding-for-clustering-and-classification-f816a66373fb
 https://github.com/nadavbra/protein_bert
+
+Error while loading Spacy's "en_core_web_md" - Microsoft Q&A
+https://docs.microsoft.com/en-us/answers/questions/853647/error-while-loading-spacy39s-34en-core-web-md34.html
+
+spacy Can't find model 'en_core_web_sm' on windows 10 and Python 3.5.3 :: Anaconda custom (64-bit) - Stack Overflow
+https://stackoverflow.com/questions/54334304/spacy-cant-find-model-en-core-web-sm-on-windows-10-and-python-3-5-3-anacon
+
+Visualizers · spaCy Usage Documentation
+https://spacy.io/usage/visualizers
+
+Named Entity Recognition - GeeksforGeeks
+https://www.geeksforgeeks.org/named-entity-recognition/
+
+Text Classification: Step 1 of 5, data preparation | Azure AI Gallery
+https://gallery.azure.ai/Experiment/Text-Classification-Step-1-of-5-data-preparation-3
+
+Find most similar sentence in the file to the input sentence | NLP - GeeksforGeeks
+https://www.geeksforgeeks.org/find-most-similar-sentence-in-the-file-to-the-input-sentence-nlp/
+
+Introduction to Natural Language Processing for Text | by Ventsislav Yordanov | Towards Data Science
+https://towardsdatascience.com/introduction-to-natural-language-processing-for-text-df845750fb63
+
+How to solve 90% of NLP problems: a step-by-step guide - KDnuggets
+https://www.kdnuggets.com/2019/01/solve-90-nlp-problems-step-by-step-guide.html
+
+Mallet: MAchine Learning for LanguagE Toolkit | Mallet
+https://mimno.github.io/Mallet/index
+
+api - algorithm to detect time, date and place from invitation text - Stack Overflow
+https://stackoverflow.com/questions/19084585/algorithm-to-detect-time-date-and-place-from-invitation-text
+
+NLP | How tokenizing text, sentence, words works - GeeksforGeeks
+https://www.geeksforgeeks.org/nlp-how-tokenizing-text-sentence-words-works/
+
+5 Simple Ways to Tokenize Text in Python | by Frank Andrade | Towards Data Science
+https://towardsdatascience.com/5-simple-ways-to-tokenize-text-in-python-92c6804edfc4
+
+Text Classification with Extremely Small Datasets | by Anirudh Shenoy | Towards Data Science
+https://towardsdatascience.com/text-classification-with-extremely-small-datasets-333d322caee2
+
+Semantic Search using Natural Language Processing | Analytics Vidhya
+https://medium.com/analytics-vidhya/semantic-search-engine-using-nlp-cec19e8cfa7e
+
+Creating a TF-IDF in Python. From scratch in python code | by Iftekher Mamun | Medium
+https://medium.com/@imamun/creating-a-tf-idf-in-python-e43f05e4d424
+
+Releases · Azure-Samples/azure-search-postman-samples
+https://github.com/Azure-Samples/azure-search-postman-samples
+
+Python Packages for PDF Data Extraction | by Rucha Sawarkar | Analytics Vidhya | Medium
+https://medium.com/analytics-vidhya/python-packages-for-pdf-data-extraction-d14ec30f0ad0
+
+
